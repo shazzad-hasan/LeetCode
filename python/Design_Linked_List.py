@@ -71,13 +71,6 @@ class MyLinkedList:
             node.next = node.next.next
             self.size -= 1
 
-mylist = MyLinkedList()
-mylist.addAtHead(1)
-mylist.addAtTail(3)
-mylist.addAtIndex(1,2)
-mylist.get(1)
-mylist.deleteAtIndex(1)
-print(mylist.get(1))
 
 
 
