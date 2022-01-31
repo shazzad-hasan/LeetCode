@@ -7,6 +7,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Remove_Duplicates.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Maximum_Subarray.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Merge_Sorted_Array.py) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Min_Stack.py) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Remove_Linked_List_Elements.py) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Reverse_Linked_List.py) |
 | 225 | [ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Implement_Stack_Using_Queues.py) |
