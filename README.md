@@ -13,6 +13,7 @@
 | 225 | [ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Implement_Stack_Using_Queues.py) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Implement_Queue_Using_Stacks.py) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Palindrome_Linked_List.py) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Binary_Search.py) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Design_Linked_List.py) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Transpose_Matrix.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Middle_of_the_Linked_List.py) |
