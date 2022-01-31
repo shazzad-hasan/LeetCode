@@ -17,4 +17,5 @@
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Design_Linked_List.py) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Transpose_Matrix.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Middle_of_the_Linked_List.py) |
+| 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Sort_an_Array.py) |
 
