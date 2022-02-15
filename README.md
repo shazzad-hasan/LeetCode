@@ -4,6 +4,7 @@
 | ---- | ------------------------------------------------- | -----|
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/) |[Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Two_Sum.py)   |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |[Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Add_Two_Numbers.py) |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) |[Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Reverse_Integer.py) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Merge_Two_Sorted_Lists.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Remove_Duplicates.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Maximum_Subarray.py) |
