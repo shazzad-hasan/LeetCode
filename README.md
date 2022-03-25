@@ -19,6 +19,7 @@ Part of my daily plan for solving problems.
 | 225 | [ Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Implement_Stack_Using_Queues.py) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Implement_Queue_Using_Stacks.py) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Palindrome_Linked_List.py) |
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Reshape_the_Matrix.py) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Binary_Search.py) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Design_Linked_List.py) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Peak_Index_in_a_Mountain_Array.py) |
