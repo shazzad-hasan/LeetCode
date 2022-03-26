@@ -22,6 +22,7 @@ Part of my daily plan for solving problems.
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Reshape_the_Matrix.py) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Binary_Search.py) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Design_Linked_List.py) |
+| 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Toeplitz_Matrix.py) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Peak_Index_in_a_Mountain_Array.py) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Transpose_Matrix.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Middle_of_the_Linked_List.py) |
