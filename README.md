@@ -1,5 +1,4 @@
 # LeetCode Solutions
-Part of my daily plan for solving problems.
 
 | #    | Title                                             | Solution |
 | ---- | ------------------------------------------------- | -----|
