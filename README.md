@@ -7,6 +7,7 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Merge_Two_Sorted_Lists.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Remove_Duplicates.py) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Search_Insert_Position.py) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/pow.py) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Maximum_Subarray.py) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/sqrt_x.py) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Merge_Sorted_Array.py) |
