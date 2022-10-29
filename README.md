@@ -19,6 +19,7 @@
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Implement_Queue_Using_Stacks.py) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Palindrome_Linked_List.py) |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Reshape_the_Matrix.py) |
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Search_in_a_Binary_Search_Tree.py) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Binary_Search.py) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Design_Linked_List.py) |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python](https://github.com/shazzad-hasan/LeetCode/blob/main/python/Toeplitz_Matrix.py) |
